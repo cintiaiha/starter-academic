@@ -48,13 +48,13 @@ social:
   link: https://twitter.com/CintiaIha
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
-  link: https://scholar.google.com.br/citations?user=_hK0GC8AAAAJ&hl=pt-BR&oi=ao
+  link: https://scholar.google.com.br/citations?user=_hK0GC8AAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/cintiaiha
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/cintia-iha-2bb80492
+  link: https://www.linkedin.com/in/cintia-iha-2bb80492/
 
 
 # Link to a PDF of your resume/CV.
@@ -71,7 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Cintia Iha is a researcher that is building this website... more later...
+I am a researcher that is building this website... more later...
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
