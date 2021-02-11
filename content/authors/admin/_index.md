@@ -72,4 +72,6 @@ highlight_name: false
 ---
 
 Cintia Iha is a researcher that is building this website... more later...
+
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
