@@ -36,13 +36,13 @@ experience:
     location: São Paulo, Brazil
     date_start: '2014-05'
     date_end: '2018-04'
-    description: Phylogenomics and organellar comparative genome of Gracilariales (Rhodophyta)
+    description: Phylogenomics and organellar comparative genome of Gracilariales (Rhodophyta).
     
-    - title: Master's student
+  - title: Master's student
     company: University of São Paulo
     company_url: ''
     location: São Paulo, Brazil
     date_start: '2011-05'
     date_end: '2014-09'
-    description: Diversity of Gelidiales in Brazilian Southeast  
+    description: Diversity of Gelidiales in Brazilian Southeast.
 ---
