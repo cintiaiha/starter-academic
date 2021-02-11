@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cintia Iha, Ph.D.
+title: Cintia Iha
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ bio: My research interests include seaweeds, evolution and genomics.
 
 # Interests to show in About widget
 interests:
-- Seaweeds
+- Algae
 - Evolution
 - Genomics
 
