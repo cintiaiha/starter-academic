@@ -26,23 +26,23 @@ experience:
     company: The University of Melbourne
     company_url: ''
     location: Melbourne, Australia
-    date_start: '2019-06'
-    date_end: '2020-04'
+    date_start: '2019-06-01'
+    date_end: '2020-04-01'
     description: Analysis of the endolithic green alga *Ostreobium* genome.
         
   - title: PhD student
     company: University of São Paulo
     company_url: ''
     location: São Paulo, Brazil
-    date_start: '2014-05'
-    date_end: '2018-04'
+    date_start: '2014-05-01'
+    date_end: '2018-04-01'
     description: Phylogenomics and organellar comparative genome of Gracilariales (Rhodophyta).
     
   - title: Master's student
     company: University of São Paulo
     company_url: ''
     location: São Paulo, Brazil
-    date_start: '2011-05'
-    date_end: '2014-09'
+    date_start: '2011-05-01'
+    date_end: '2014-09-01'
     description: Diversity of Gelidiales in Brazilian Southeast.
 ---
