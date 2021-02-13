@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cintia Iha
+title: Cintia Iha, PhD
 
 # Is this the primary user of the site?
 superuser: true
